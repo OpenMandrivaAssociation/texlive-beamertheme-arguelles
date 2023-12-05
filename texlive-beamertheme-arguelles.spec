@@ -1,6 +1,6 @@
 Name:		texlive-beamertheme-arguelles
-Version:	65234
-Release:	2
+Version:	68659
+Release:	1
 Summary:	Simple, typographic beamer theme
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/beamertheme-arguelles
