@@ -1,5 +1,5 @@
 Name:		texlive-beamertheme-arguelles
-Version:	68659
+Version:	71485
 Release:	1
 Summary:	Simple, typographic beamer theme
 Group:		Publishing
