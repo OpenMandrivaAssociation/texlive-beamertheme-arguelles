@@ -3,7 +3,7 @@ Version:	71485
 Release:	1
 Summary:	Simple, typographic beamer theme
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/beamertheme-arguelles
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/beamertheme-arguelles
 License:	mit
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/beamertheme-arguelles.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/beamertheme-arguelles.doc.r%{version}.tar.xz
